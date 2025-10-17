@@ -24,7 +24,5 @@ If you’re curious about automation and enjoy combining different tasks into ef
 
 ```bash
 git clone https://github.com/Shimanto9sqr/Shell-Scripting-automate-your-work.git
-
-2. Navigate to your project folder and run any script using bash. For example:
-```bash
-bash fc.sh
+cd Shell-Scripting-automate-your-work /*Navigate to your project folder and run any script using bash.*/
+bash fc.sh /*Run any script*/
