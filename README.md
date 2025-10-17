@@ -20,7 +20,7 @@ If you’re curious about automation and enjoy combining different tasks into ef
 
 ## Getting Started
 
-1. Clone this repository to your local machine:
+ Clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/Shimanto9sqr/Shell-Scripting-automate-your-work.git
