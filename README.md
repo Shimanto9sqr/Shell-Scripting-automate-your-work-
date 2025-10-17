@@ -11,7 +11,7 @@ If you’re curious about automation and enjoy combining different tasks into ef
 | Script | Description |
 |--------|-------------|
 | `fc.sh` | Automates Flutter project creation and opens the project in your environment. |
-| `newfile.sh` | Another script to automate Flutter project creation. |
+| `newfile.sh` | Creates new file. |
 | `test.sh` | Script to automate Flutter project setup for testing purposes. |
 | `git_automate.sh` | Helps automate common Git tasks. |
 | `password_gen.sh` | Generates secure passwords automatically. |
