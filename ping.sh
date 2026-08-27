@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "Hello from Conflict Branch"
+
 if ping -c 3 $1 &>/dev/null;
 then
 	echo "PING SUCCESS"
