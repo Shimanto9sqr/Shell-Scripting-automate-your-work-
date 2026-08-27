@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "Hello from temp branch"
+
 if ping -c 3 $1 &>/dev/null;
 then
 	echo "PING SUCCESS"
