@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Hello from Conflict Branch"
+echo "Hello from Main Branch"
 
 if ping -c 3 $1 &>/dev/null;
 then
